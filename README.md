@@ -28,6 +28,7 @@ Users can add a country, which will then be highlighted on a map, and the countr
 
 ## Project Structure
 
+```
 Travel Tracker/
 ├─ database/
 │ ├─ countries.csv # List of countries and codes
@@ -42,3 +43,4 @@ Travel Tracker/
 ├─ index.js # Main Node.js server file
 ├─ package.json # Node.js dependencies
 └─ package-lock.json # Lock file for dependencies
+```
